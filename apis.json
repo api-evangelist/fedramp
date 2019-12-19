@@ -1,0 +1,56 @@
+{
+    "name": "FedRAMP",
+    "description": "The Federal Risk and Authorization Management Program, or FedRAMP, is a government-wide program that provides a standardized approach to security assessment",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28719-www-fedramp-gov.jpg",
+    "tags": [
+        "certification",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fedramp\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "FedRAMP",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28719-www-fedramp-gov.jpg",
+            "humanURL": "https:\/\/www.fedramp.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fedramp-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fedramp-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.fedramp.gov\/blog\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@FedRAMP.gov"
+        },
+        {
+            "type": "Email",
+            "url": "agency@fedramp.gov"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/FedRAMP"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.fedramp.gov"
+        }
+    ]
+}
